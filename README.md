@@ -1,7 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/charlyfdz2/">
-  <img align="left" alt="charlyfdz2's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+
 <a href="https://twitter.com/charlyfdzf">
   <img align="left" alt=" charlyfdz2 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -49,14 +47,3 @@ Jera path for services
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/carlosafdz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  10,000 Karma Points           
-🌸  Completed 10 tasks today           
-✅  Completed 740 tasks so far           
-⏳  Longest streak is 15 days
-<!-- TODO-IST:END -->
